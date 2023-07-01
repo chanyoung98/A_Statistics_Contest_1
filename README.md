@@ -1,4 +1,4 @@
-# predicting_the_transfer_fee_of_soccer_player
+# 축구 선수 이적료 예측 및 분석
 
 데이터셋 출처 : https://www.kaggle.com/datasets/kriegsmaschine/soccer-players-values-and-their-statistics
 
